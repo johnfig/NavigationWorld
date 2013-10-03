@@ -1,5 +1,5 @@
 //
-//  NavigationWorldMasterViewController.h
+//  NavigationWorldViewController.h
 //  NavigationWorld
 //
 //  Created by John Figueiredo on 10/2/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NavigationWorldMasterViewController : UITableViewController
+@interface NavigationWorldViewController : UIViewController
 
 @end

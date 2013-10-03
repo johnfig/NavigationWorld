@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5C8D8A4317FCB5F300D8948A"
+               BlueprintIdentifier = "5C8D8AC817FD01B800D8948A"
                BuildableName = "NavigationWorld.app"
                BlueprintName = "NavigationWorld"
                ReferencedContainer = "container:NavigationWorld.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5C8D8A6717FCB5F300D8948A"
+               BlueprintIdentifier = "5C8D8AE917FD01B800D8948A"
                BuildableName = "NavigationWorldTests.xctest"
                BlueprintName = "NavigationWorldTests"
                ReferencedContainer = "container:NavigationWorld.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C8D8A4317FCB5F300D8948A"
+            BlueprintIdentifier = "5C8D8AC817FD01B800D8948A"
             BuildableName = "NavigationWorld.app"
             BlueprintName = "NavigationWorld"
             ReferencedContainer = "container:NavigationWorld.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C8D8A4317FCB5F300D8948A"
+            BlueprintIdentifier = "5C8D8AC817FD01B800D8948A"
             BuildableName = "NavigationWorld.app"
             BlueprintName = "NavigationWorld"
             ReferencedContainer = "container:NavigationWorld.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C8D8A4317FCB5F300D8948A"
+            BlueprintIdentifier = "5C8D8AC817FD01B800D8948A"
             BuildableName = "NavigationWorld.app"
             BlueprintName = "NavigationWorld"
             ReferencedContainer = "container:NavigationWorld.xcodeproj">
